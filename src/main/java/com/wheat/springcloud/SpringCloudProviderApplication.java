@@ -11,4 +11,5 @@ public class SpringCloudProviderApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCloudProviderApplication.class, args);
 	}
+	
 }
